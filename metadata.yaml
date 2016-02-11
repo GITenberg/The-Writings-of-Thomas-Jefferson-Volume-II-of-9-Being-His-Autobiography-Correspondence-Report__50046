@@ -1,0 +1,31 @@
+_repo: The-Writings-of-Thomas-Jefferson-Volume-II-of-9-Being-His-Autobiography-Correspondence-Report__50046
+contributor:
+  creator:
+    editor:
+      agent_name: Washington, H. A.
+      gutenberg_agent_id: '43489'
+      url: http://www.gutenberg.org/2009/agents/43489
+creator:
+  author:
+    agent_name: Jefferson, Thomas
+    alias: United States President (1801-1809)
+    birthdate: 1743
+    deathdate: 1826
+    gutenberg_agent_id: '1638'
+    url: http://www.gutenberg.org/2009/agents/1638
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
+description: ''
+gutenberg_issued: '2015-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '50046'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Writings of Thomas Jefferson, Volume II (of 9)
+
+  Being His Autobiography, Correspondence, Reports, Messages,
+
+  Addresses, and Other Writings, Official and Private'
+url: http://www.gutenberg.org/ebooks/50046
