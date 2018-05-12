@@ -1,10 +1,14 @@
 _repo: The-Writings-of-Thomas-Jefferson-Volume-II-of-9-Being-His-Autobiography-Correspondence-Report__50046
+_version: 0.1.0
 contributor:
   creator:
     editor:
       agent_name: Washington, H. A.
       gutenberg_agent_id: '43489'
       url: http://www.gutenberg.org/2009/agents/43489
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Jefferson, Thomas
@@ -15,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1638
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50046#The-Writings-of-Thomas-Jefferson-Volume-II-of-9-Being-His-Autobiography-Correspondence-Report_
 gutenberg_issued: '2015-09-23'
 gutenberg_type: Text
 identifiers:
